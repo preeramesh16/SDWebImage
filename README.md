@@ -9,6 +9,7 @@
 [![Pod License](http://img.shields.io/cocoapods/l/SDWebImage.svg?style=flat)](https://www.apache.org/licenses/LICENSE-2.0.html)
 [![Carthage compatible](https://img.shields.io/badge/Carthage-compatible-4BC51D.svg?style=flat)](https://github.com/SDWebImage/SDWebImage)
 [![codecov](https://codecov.io/gh/SDWebImage/SDWebImage/branch/master/graph/badge.svg)](https://codecov.io/gh/SDWebImage/SDWebImage)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpreeramesh16%2FSDWebImage.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpreeramesh16%2FSDWebImage?ref=badge_shield)
 
 This library provides an async image downloader with cache support. For convenience, we added categories for UI elements like `UIImageView`, `UIButton`, `MKAnnotationView`.
 
@@ -165,6 +166,9 @@ community can help you solve it.
 ## Licenses
 
 All source code is licensed under the [MIT License](https://raw.github.com/SDWebImage/SDWebImage/master/LICENSE).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpreeramesh16%2FSDWebImage.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpreeramesh16%2FSDWebImage?ref=badge_large)
 
 ## Architecture
 
